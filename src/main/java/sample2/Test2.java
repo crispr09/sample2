@@ -1,3 +1,5 @@
+package sample2;
 
-public class A {
+
+public class Test2 {
 }
